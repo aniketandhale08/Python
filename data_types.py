@@ -1,0 +1,12 @@
+a = int(100)
+b = float(100)
+c = complex(3 + 4j)
+d = str('anu')
+e = bool(True)
+f = bin(10)
+g = oct(20)
+h = hex(30)
+i = ord('A')
+j = chr(35)
+
+print(a,b,c,d,e,f,g,h,i,j, sep="\n")
