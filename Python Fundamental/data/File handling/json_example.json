@@ -1,0 +1,10 @@
+{
+    "name": "Anu",
+    "country": "India",
+    "city": "Pune",
+    "skills": [
+        "SQL",
+        "GCP",
+        "Python"
+    ]
+}
